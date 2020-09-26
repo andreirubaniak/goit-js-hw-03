@@ -55,4 +55,4 @@ c переносом строки ('\n')
 
 // calculateTotalPrice(products, 'Захват')); // 2400
 
-// calculateTotalPrice(products, 'Дроид')); // 2800
+// calculateTotalPrice(products, 'Дроид')); // 2800 
